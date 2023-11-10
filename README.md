@@ -1,3 +1,5 @@
+in progress
+
 A game without players
 "Life" develops strictly according to prescribed rules. It does not require any action on the part of the player - except that it cannot start itself.
 Game description
